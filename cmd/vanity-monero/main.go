@@ -14,8 +14,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	vanity "ekyu.moe/vanity-monero"
-	"ekyu.moe/vanity-monero/mnemonic"
+	vanity "vanity-monero"
+	"vanity-monero/mnemonic"
 )
 
 type (
